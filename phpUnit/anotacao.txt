@@ -1,0 +1,5 @@
+o phpunit nós ajuda a testar a menor unidade, o mais comum é testar métodos ou funçoes, ele nos 
+facilita muito na escrita e identificaçao de erros, o bom é que vc precisa ficar executando 
+o codigo para abrir uma aba no chrome, voce abre o cmd e coloca o comando (vendor/bin/phpunit)
+em fim ele ira aparecer o resultado.
+ 

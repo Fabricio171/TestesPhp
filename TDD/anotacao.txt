@@ -1,0 +1,14 @@
+comando para executar: vendor/bin/phpunit
+
+comando caso se precisar autolize o composer.json: composer dump-autoload
+
+comando para abaixar o phpunit: composer require --dev phpunit/phpunit ^9.5
+
+ O TDD consiste em três fases principais são (Red-Green-Refactor)
+
+   Red    (Vermelho): testes que contem falhas.
+  Green   (Verde):  escreva codigos minimos necessario para passar no teste.
+ Refactor (Refatorar): melhorar o codigo, mantendo todos os tipos de testes verde.
+
+
+
